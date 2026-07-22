@@ -12,9 +12,9 @@ function test(testMessage){
 
 }
 
-testMessage("aaa");
+test("aaa");
 
 const constMessage = 1;
 
-testMessage(constMessage);
+test(constMessage);
 
