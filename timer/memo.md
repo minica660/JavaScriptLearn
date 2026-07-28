@@ -1,5 +1,5 @@
 
-index.html
+index.htmlファイル
 
 ・divでidをclockID
 初期値は00:00:00 
@@ -8,6 +8,6 @@ index.html
 
 
 
-main.js
+main.jsファイル
 
 最初、ページが読み込まれた際に時刻更新関数を呼び出し後は1秒ごとに更新関数を呼び出す
